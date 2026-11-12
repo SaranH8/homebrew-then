@@ -1,6 +1,6 @@
 cask "then" do
-  version "1.3.0"
-  sha256 "c797ea4d525bc38244abd1de9c77bfc965d978be6530ce1d86bdb56ee1194077"
+  version "1.3.1"
+  sha256 "86ca2aea0f867658e7269dbf9815fcb6ea47a96a60b7dd14e918aee7d40abf3b"
 
   url "https://github.com/SaranH8/homebrew-then/releases/download/v#{version}/THEN-v#{version}.dmg"
   name "THEN"
